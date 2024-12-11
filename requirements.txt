@@ -1,0 +1,6 @@
+Copyfastapi
+uvicorn
+python-dotenv
+cohere
+pinecone-client
+anthropic
