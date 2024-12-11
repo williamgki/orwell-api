@@ -1,4 +1,4 @@
-Copyfastapi
+fastapi
 uvicorn
 python-dotenv
 cohere
